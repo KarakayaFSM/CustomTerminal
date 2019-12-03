@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "cstdbool": "c",
+        "c++config.h": "c",
+        "wait.h": "c",
+        "string.h": "c",
+        "cstdlib": "c",
+        "*.tcc": "c"
+    }
+}
